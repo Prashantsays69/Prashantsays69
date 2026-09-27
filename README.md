@@ -3,7 +3,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Prashant+%F0%9F%91%8B;ECE+Undergrad+%7C+Web+Developer;I+build+things+that+I+probably+shouldn't+%F0%9F%98%AD;Music+%7C+Code+%7C+Photography+%7C+Gaming" alt="Typing SVG" />
 
 <br/>
-
 <img src="https://komarev.com/ghpvc/?username=Prashantsays69&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/Prashantsays69?label=FOLLOWERS&style=for-the-badge&color=111111&labelColor=7c3aed" />
 
@@ -31,20 +30,10 @@ currently:
 
 ---
 
-## ⚡ Stuff I've built
+## ⚡ Featured builds
 
 <table>
 <tr>
-<td width="50%">
-
-### 🎵 MusicFinder
-A music discovery experience built around the Spotify API.
-
-**Stack:** HTML • CSS • JavaScript • Node.js • Express
-
-<a href="https://musicfinder-prash.netlify.app/">Live Demo ↗</a>
-
-</td>
 <td width="50%">
 
 ### 🐸 BhonduFix
@@ -55,12 +44,22 @@ A chaotic, meme-inspired web experience with personality baked into the UI.
 <a href="https://github.com/Prashantsays69/bhondufix">Repository ↗</a>
 
 </td>
+<td width="50%">
+
+### 🐹 Hammy.exe
+An experimental interactive web project built around playful UI, animation and personality.
+
+**Stack:** Web • JavaScript • UI/UX
+
+<a href="https://github.com/Prashantsays69/hammy-exe">Repository ↗</a>
+
+</td>
 </tr>
 <tr>
 <td width="50%">
 
 ### 🎮 DealDive
-Game deals & discovery platform using game APIs to surface stuff worth checking out.
+Game deals & discovery platform using game APIs to surface games worth checking out.
 
 **Stack:** JavaScript • APIs • Web
 
@@ -98,7 +97,6 @@ A civic workflow/dashboard concept focused on tracking files, process status and
 </div>
 
 <br/>
-
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Prashantsays69&theme=github-dark-blue&hide_border=true&background=0D1117" />
 </div>
