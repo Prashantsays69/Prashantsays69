@@ -89,33 +89,21 @@ A civic workflow/dashboard concept focused on tracking files, process status and
 
 ---
 
-## 📊 GitHub, but make it pretty
+## 📊 GitHub activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Prashantsays69&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=ffffff&rank_icon=github" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashantsays69&layout=compact&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=ffffff" height="170" />
-</div>
 
-<br/>
-<div align="center">
 <img src="https://streak-stats.demolab.com?user=Prashantsays69&theme=github-dark-blue&hide_border=true&background=0D1117" />
+
+<br/><br/>
+
+<a href="https://github.com/Prashantsays69?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
 
----
-
-## 🏆 GitHub trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Prashantsays69&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
-
----
-
-## 📈 Contribution graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prashantsays69&bg_color=0d1117&color=ffffff&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
+> **Note:** I removed the external stats/trophy/activity-graph cards that were returning broken images. The public `github-readme-stats` service can be unreliable because of GitHub API rate limits, and the trophy service has also had deployment outages. citeturn0search3turn0search8
 
 ---
 
@@ -130,7 +118,9 @@ A civic workflow/dashboard concept focused on tracking files, process status and
 ## 🐍 Contribution snake
 
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/Prashantsays69/Prashantsays69/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+
 </div>
 
 ---
