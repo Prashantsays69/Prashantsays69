@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/188616028?v=4" width="96" height="96" alt="Prashant Ratnala">
-
-### PRASHANT RATNALA
+# PRASHANT RATNALA
 
 <sub><code>ECE Undergrad</code> · <code>Web Developer</code> · <code>Builder</code> · <code>Photographer</code></sub>
 
-<sub><i>i build things that probably didn't need to exist, but here we are 😭</i></sub>
-
 <br>
+
+<sub><b>i build things that probably didn't need to exist, but here we are 😭</b></sub>
+
+<br><br>
 
 <a href="https://github.com/Prashantsays69?tab=repositories">🚀 Projects</a> ·
 <a href="https://www.linkedin.com/in/prashant-ratnala/">💼 LinkedIn</a> ·
 <a href="https://www.instagram.com/iam_prash99/">📸 Instagram</a> ·
 <a href="https://linktr.ee/byprash">🔗 Linktree</a>
 
-<br>
+<br><br>
 
 <sub><code>balance is a process, not a destination :)</code> · <code>i larp (a lot)</code> 😭</sub>
 
@@ -31,18 +31,9 @@
 
 </div>
 
-<div align="center">
-
-```
-> neofetch --me
-
-OS       : Windows 11 (mostly)
-Editor   : VS Code
-Brain    : 70% ideas · 30% overthinking
-Mood     : building... probably again
-```
-
-</div>
+> `neofetch --me`  
+> **OS:** Windows 11 (mostly) · **Editor:** VS Code  
+> **Brain:** 70% ideas · 30% overthinking · **Mood:** building... probably again
 
 ---
 
