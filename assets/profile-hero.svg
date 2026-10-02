@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#08090d"/><stop offset="1" stop-color="#11101b"/>
+  </linearGradient>
+  <linearGradient id="purple" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#c084fc"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="avatar"><circle cx="150" cy="205" r="108"/></clipPath>
+</defs>
+<rect width="1200" height="430" rx="22" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="428" rx="21" fill="none" stroke="#29243c"/>
+<circle cx="1080" cy="45" r="90" fill="#7c3aed" opacity=".08" filter="url(#glow)"/>
+<text x="34" y="34" fill="#a78bfa" font-family="monospace" font-size="15">~/README.md</text>
+<text x="1165" y="34" text-anchor="end" fill="#77717f" font-family="monospace" font-size="13">built with caffeine, delusions &amp; VS Code ☕</text>
+<path d="M34 55H1166" stroke="#29243c"/>
+<circle cx="150" cy="205" r="116" fill="#15121f" stroke="#7c3aed" stroke-width="3"/>
+<image href="https://github.com/Prashantsays69.png" x="42" y="97" width="216" height="216" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatar)"/>
+<circle cx="150" cy="205" r="108" fill="none" stroke="#c084fc" stroke-opacity=".35"/>
+<text x="150" y="354" text-anchor="middle" fill="#c4b5fd" font-family="monospace" font-size="14">just a guy who likes</text>
+<text x="150" y="375" text-anchor="middle" fill="#f4f4f5" font-family="monospace" font-size="14">building weird shit</text>
+<text x="310" y="105" fill="#a78bfa" font-family="monospace" font-size="16">&gt;_ hey, i'm</text>
+<text x="310" y="158" fill="#f4f4f5" font-family="monospace" font-size="44" font-weight="700">PRASHANT</text>
+<text x="610" y="158" fill="url(#purple)" font-family="monospace" font-size="44" font-weight="700"> RATNALA</text>
+<text x="312" y="191" fill="#d4d4d8" font-family="monospace" font-size="17">ECE Undergrad  ·  Web Developer  ·  Builder  ·  Photographer</text>
+<path d="M312 213H1145" stroke="#29243c"/>
+<text x="312" y="247" fill="#e4e4e7" font-family="monospace" font-size="17">i build things that probably didn't need to exist,</text>
+<text x="312" y="272" fill="#e4e4e7" font-family="monospace" font-size="17">but here we are.</text>
+<text x="312" y="310" fill="#a1a1aa" font-family="monospace" font-size="15">→ shipping silly ideas and calling it "projects"</text>
+<text x="312" y="334" fill="#a1a1aa" font-family="monospace" font-size="15">→ ECE by degree, yapper by nature</text>
+<text x="312" y="358" fill="#a1a1aa" font-family="monospace" font-size="15">→ tech · photography · music · games</text>
+<text x="312" y="382" fill="#a1a1aa" font-family="monospace" font-size="15">→ currently trying to be a slightly better version of myself</text>
+<rect x="905" y="88" width="240" height="74" rx="12" fill="#0d0c13" stroke="#3b3157"/>
+<text x="925" y="113" fill="#c084fc" font-family="monospace" font-size="14">balance is a process</text>
+<text x="925" y="137" fill="#e4e4e7" font-family="monospace" font-size="14">not a destination :)</text>
+<text x="1048" y="184" fill="#a78bfa" font-family="monospace" font-size="13">i larp (a lot) 😭</text>
+</svg>
