@@ -1,12 +1,27 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Prashantsays69/Prashantsays69/main/assets/profile-hero.svg" width="100%" alt="Prashant Ratnala profile hero">
+<img src="https://avatars.githubusercontent.com/u/188616028?v=4" width="120" height="120" alt="Prashant Ratnala" style="border-radius:50%">
 
 <br>
 
-<a href="https://github.com/Prashantsays69?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"></a>
-<a href="https://www.linkedin.com/in/prashant-ratnala/"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/iam_prash99/"><img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+### PRASHANT RATNALA
+
+<sub><code>ECE Undergrad</code> · <code>Web Developer</code> · <code>Builder</code> · <code>Photographer</code></sub>
+
+<br>
+
+<sub><i>i build things that probably didn't need to exist, but here we are 😭</i></sub>
+
+<br><br>
+
+<a href="https://github.com/Prashantsays69?tab=repositories">🚀 Projects</a> ·
+<a href="https://www.linkedin.com/in/prashant-ratnala/">💼 LinkedIn</a> ·
+<a href="https://www.instagram.com/iam_prash99/">📸 Instagram</a> ·
+<a href="https://linktr.ee/byprash">🔗 Linktree</a>
+
+<br><br>
+
+<sub><code>balance is a process, not a destination :)</code> · <code>i larp (a lot)</code> 😭</sub>
 
 </div>
 
@@ -16,7 +31,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,git,github,vscode,vercel,netlify&perline=11" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,git,github,vscode,vercel,netlify&perline=8" alt="Tech stack">
 
 </div>
 
@@ -41,7 +56,7 @@ Mood     : building... probably again
 
 <table>
 <tr>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
 ### 🐸 BhonduFix
 
@@ -52,7 +67,7 @@ Campus issue reporting that actually works **(for once).**
 <a href="https://github.com/Prashantsays69/bhondufix">open →</a>
 
 </td>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
 ### 🐹 Hammy.exe
 
@@ -65,7 +80,9 @@ A tiny chaotic `.exe` that does... something.
 <a href="https://github.com/Prashantsays69/hammy-exe">open →</a>
 
 </td>
-<td width="25%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🎮 DealDive
 
@@ -76,7 +93,7 @@ Find the best game deals before your wallet starts crying.
 <a href="https://dealdive-psi.vercel.app/">open →</a>
 
 </td>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
 ### 🏛️ CivicWatch
 
@@ -100,7 +117,7 @@ Track civic issues, because apparently someone has to.
 
 <br>
 
-<a href="https://github.com/Prashantsays69?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-%237C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"></a>
+<a href="https://github.com/Prashantsays69?tab=repositories">→ view all repositories</a>
 
 </div>
 
@@ -113,10 +130,10 @@ Track civic issues, because apparently someone has to.
 
 <table>
 <tr>
-<td width="25%"><b>🎵 MUSIC</b><br><br>The Weeknd · playlists · discovering artists</td>
-<td width="25%"><b>📸 PHOTO</b><br><br>Shooting · editing · color grading · random clicks</td>
-<td width="25%"><b>🎮 GAMING</b><br><br>Minecraft · Valorant · whatever I'm playing lately</td>
-<td width="25%"><b>⭐ RANDOM SHIT</b><br><br>Good food · late-night yaps · more larping :)</td>
+<td width="25%" valign="top"><b>🎵 MUSIC</b><br><br>The Weeknd · playlists · discovering artists</td>
+<td width="25%" valign="top"><b>📸 PHOTO</b><br><br>Shooting · editing · color grading</td>
+<td width="25%" valign="top"><b>🎮 GAMING</b><br><br>Minecraft · Valorant · whatever I'm playing</td>
+<td width="25%" valign="top"><b>⭐ RANDOM SHIT</b><br><br>Good food · late-night yaps · more larping :)</td>
 </tr>
 </table>
 
@@ -129,6 +146,6 @@ Track civic issues, because apparently someone has to.
 └──$ thanks_for_stopping_by()
 ```
 
-<sub>feel free to explore the repos, star whatever you like, or just vibe here for a bit.</sub>
+<sub>feel free to explore the repos or just vibe here for a bit.</sub>
 
 </div>
