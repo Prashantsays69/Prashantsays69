@@ -1,21 +1,44 @@
 <div align="center">
 
-# PRASHANT RATNALA
+<table>
+<tr>
+<td width="27%" align="center" valign="middle">
 
-<sub><code>ECE Undergrad</code> · <code>Web Developer</code> · <code>Builder</code> · <code>Photographer</code></sub>
+<img src="https://avatars.githubusercontent.com/u/188616028?v=4" width="150" alt="Prashant Ratnala">
+
+<br><br>
+
+<sub><b>just a guy who likes<br>building weird shit</b></sub>
+
+</td>
+
+<td width="73%" align="left" valign="middle">
+
+# <code>&gt;_</code> PRASHANT <font color="#8B5CF6">RATNALA</font>
+
+**ECE Undergrad · Web Developer · Builder · Photographer**
 
 <br>
 
-<sub><b>i build things that probably didn't need to exist, but here we are 😭</b></sub>
+> **i build things that probably didn't need to exist,<br>but here we are. 😭**
 
-<br><br>
+<br>
+
+<code>→ shipping silly ideas and calling it "projects"</code><br>
+<code>→ ECE by degree, yapper by nature</code><br>
+<code>→ tech · photography · music · games</code><br>
+<code>→ currently trying to be a slightly better version of myself</code>
+
+<br>
 
 <a href="https://github.com/Prashantsays69?tab=repositories">🚀 Projects</a> ·
 <a href="https://www.linkedin.com/in/prashant-ratnala/">💼 LinkedIn</a> ·
 <a href="https://www.instagram.com/iam_prash99/">📸 Instagram</a> ·
 <a href="https://linktr.ee/byprash">🔗 Linktree</a>
 
-<br><br>
+</td>
+</tr>
+</table>
 
 <sub><code>balance is a process, not a destination :)</code> · <code>i larp (a lot)</code> 😭</sub>
 
@@ -27,13 +50,37 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,git,github,vscode,vercel,netlify&perline=8" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,git,github,vscode,tailwind,vercel,figma&perline=6" alt="Tech stack">
 
 </div>
 
-> `neofetch --me`  
-> **OS:** Windows 11 (mostly) · **Editor:** VS Code  
-> **Brain:** 70% ideas · 30% overthinking · **Mood:** building... probably again
+---
+
+<div align="center">
+
+## <code>&gt; neofetch --me</code>
+
+<table>
+<tr>
+<td align="left">
+
+```
+OS       : Windows 11 (mostly)
+Editor   : VS Code
+Brain    : 70% ideas · 30% overthinking
+Mood     : building... probably again
+```
+
+</td>
+<td align="center">
+
+<code>NO BUGS.<br>JUST UNEXPECTED<br>FEATURES. :)</code>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -68,6 +115,7 @@ A tiny chaotic `.exe` that does... something.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -117,10 +165,10 @@ Track civic issues, because apparently someone has to.
 
 <table>
 <tr>
-<td width="25%" valign="top"><b>🎵 MUSIC</b><br><br>The Weeknd · playlists · discovering artists</td>
-<td width="25%" valign="top"><b>📸 PHOTO</b><br><br>Shooting · editing · color grading</td>
-<td width="25%" valign="top"><b>🎮 GAMING</b><br><br>Minecraft · Valorant · whatever I'm playing</td>
-<td width="25%" valign="top"><b>⭐ RANDOM SHIT</b><br><br>Good food · late-night yaps · more larping :)</td>
+<td width="25%" align="center"><b>🎵 MUSIC</b><br><sub>The Weeknd · playlists · discovering artists</sub></td>
+<td width="25%" align="center"><b>📸 PHOTO</b><br><sub>Shooting · editing · color grading</sub></td>
+<td width="25%" align="center"><b>🎮 GAMING</b><br><sub>Minecraft · Valorant · whatever I'm playing</sub></td>
+<td width="25%" align="center"><b>⭐ RANDOM SHIT</b><br><sub>Good food · late-night yaps · more larping</sub></td>
 </tr>
 </table>
 
@@ -134,5 +182,9 @@ Track civic issues, because apparently someone has to.
 ```
 
 <sub>feel free to explore the repos or just vibe here for a bit.</sub>
+
+<br><br>
+
+<code>balance is a process, not a destination :)</code> · <code>i larp (a lot)</code> 😭
 
 </div>
