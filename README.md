@@ -1,25 +1,21 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/188616028?v=4" width="120" height="120" alt="Prashant Ratnala" style="border-radius:50%">
-
-<br>
+<img src="https://avatars.githubusercontent.com/u/188616028?v=4" width="96" height="96" alt="Prashant Ratnala">
 
 ### PRASHANT RATNALA
 
 <sub><code>ECE Undergrad</code> · <code>Web Developer</code> · <code>Builder</code> · <code>Photographer</code></sub>
 
-<br>
-
 <sub><i>i build things that probably didn't need to exist, but here we are 😭</i></sub>
 
-<br><br>
+<br>
 
 <a href="https://github.com/Prashantsays69?tab=repositories">🚀 Projects</a> ·
 <a href="https://www.linkedin.com/in/prashant-ratnala/">💼 LinkedIn</a> ·
 <a href="https://www.instagram.com/iam_prash99/">📸 Instagram</a> ·
 <a href="https://linktr.ee/byprash">🔗 Linktree</a>
 
-<br><br>
+<br>
 
 <sub><code>balance is a process, not a destination :)</code> · <code>i larp (a lot)</code> 😭</sub>
 
