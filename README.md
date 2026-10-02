@@ -1,9 +1,8 @@
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Prashantsays69/Prashantsays69/main/assets/profile-hero.svg" width="100%" alt="Prashant Ratnala profile hero">
 
-<br><br>
+<br>
 
 <a href="https://github.com/Prashantsays69?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"></a>
 <a href="https://www.linkedin.com/in/prashant-ratnala/"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -99,7 +98,7 @@ Track civic issues, because apparently someone has to.
 
 <img src="https://streak-stats.demolab.com?user=Prashantsays69&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak">
 
-<br><br>
+<br>
 
 <a href="https://github.com/Prashantsays69?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-%237C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"></a>
 
