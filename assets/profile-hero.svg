@@ -1,31 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="auto" viewBox="0 0 900 300" preserveAspectRatio="xMidYMid meet">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
 <defs>
-<linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08090d"/><stop offset="1" stop-color="#12101a"/></linearGradient>
-<linearGradient id="p"><stop stop-color="#7c3aed"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08090d"/><stop offset="1" stop-color="#14101f"/></linearGradient>
+<linearGradient id="purple" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7c3aed"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
 </defs>
-<rect width="900" height="300" rx="18" fill="url(#b)"/><rect x="1" y="1" width="898" height="298" rx="17" fill="none" stroke="#302744"/>
-<text x="24" y="28" fill="#a78bfa" font-family="monospace" font-size="12">~/README.md</text>
-<text x="875" y="28" text-anchor="end" fill="#77717f" font-family="monospace" font-size="10">caffeine + delusions + VS Code ☕</text>
-<path d="M24 42H876" stroke="#29243c"/>
+<rect width="900" height="360" rx="18" fill="url(#bg)"/>
+<rect x="1" y="1" width="898" height="358" rx="17" fill="none" stroke="#302744"/>
+<text x="28" y="31" fill="#a78bfa" font-family="monospace" font-size="13">~/README.md</text>
+<text x="872" y="31" text-anchor="end" fill="#77717f" font-family="monospace" font-size="11">caffeine + delusions + VS Code ☕</text>
+<path d="M28 48H872" stroke="#29243c"/>
 
-<circle cx="105" cy="145" r="68" fill="#15121f" stroke="#7c3aed" stroke-width="2"/>
-<text x="105" y="153" text-anchor="middle" fill="#f4f4f5" font-family="monospace" font-size="25" font-weight="700">PR</text>
-<text x="105" y="237" text-anchor="middle" fill="#c4b5fd" font-family="monospace" font-size="11">just a guy who likes</text>
-<text x="105" y="253" text-anchor="middle" fill="#f4f4f5" font-family="monospace" font-size="11">building weird shit</text>
+<circle cx="450" cy="118" r="55" fill="#15121f" stroke="#7c3aed" stroke-width="2"/>
+<text x="450" y="129" text-anchor="middle" fill="#f4f4f5" font-family="monospace" font-size="30" font-weight="700">PR</text>
 
-<text x="200" y="72" fill="#a78bfa" font-family="monospace" font-size="13">&gt;_ hey, i'm</text>
-<text x="200" y="108" fill="#f4f4f5" font-family="monospace" font-size="32" font-weight="700">PRASHANT</text>
-<text x="410" y="108" fill="url(#p)" font-family="monospace" font-size="32" font-weight="700"> RATNALA</text>
-<text x="202" y="133" fill="#d4d4d8" font-family="monospace" font-size="12">ECE Undergrad · Web Developer · Builder · Photographer</text>
-<path d="M202 148H850" stroke="#29243c"/>
-<text x="202" y="174" fill="#e4e4e7" font-family="monospace" font-size="13">i build things that probably didn't need to exist, but here we are.</text>
-<text x="202" y="198" fill="#a1a1aa" font-family="monospace" font-size="11">→ shipping silly ideas and calling it "projects"</text>
-<text x="202" y="216" fill="#a1a1aa" font-family="monospace" font-size="11">→ ECE by degree, yapper by nature</text>
-<text x="202" y="234" fill="#a1a1aa" font-family="monospace" font-size="11">→ tech · photography · music · games</text>
-<text x="202" y="252" fill="#a1a1aa" font-family="monospace" font-size="11">→ currently trying to be a slightly better version of myself</text>
-
-<rect x="685" y="61" width="165" height="49" rx="9" fill="#0d0c13" stroke="#3b3157"/>
-<text x="698" y="82" fill="#c084fc" font-family="monospace" font-size="10">balance is a process</text>
-<text x="698" y="99" fill="#e4e4e7" font-family="monospace" font-size="10">not a destination :)</text>
-<text x="690" y="278" fill="#a78bfa" font-family="monospace" font-size="10">i larp (a lot) 😭</text>
+<text x="450" y="199" text-anchor="middle" fill="#a78bfa" font-family="monospace" font-size="14">&gt;_ hey, i'm</text>
+<text x="450" y="240" text-anchor="middle" font-family="monospace" font-size="37" font-weight="700"><tspan fill="#f4f4f5">PRASHANT</tspan><tspan fill="url(#purple)"> RATNALA</tspan></text>
+<text x="450" y="267" text-anchor="middle" fill="#d4d4d8" font-family="monospace" font-size="13">ECE Undergrad · Web Developer · Builder · Photographer</text>
+<path d="M190 284H710" stroke="#29243c"/>
+<text x="450" y="307" text-anchor="middle" fill="#e4e4e7" font-family="monospace" font-size="13">i build things that probably didn't need to exist, but here we are.</text>
+<text x="450" y="328" text-anchor="middle" fill="#a1a1aa" font-family="monospace" font-size="11">→ shipping silly ideas · ECE by degree · yapper by nature · tech · photo · music · games</text>
+<text x="450" y="347" text-anchor="middle" fill="#a78bfa" font-family="monospace" font-size="10">balance is a process, not a destination :) · i larp (a lot) 😭</text>
 </svg>
